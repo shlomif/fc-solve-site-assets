@@ -1,0 +1,7 @@
+=encoding utf8
+
+=head1 Freecell Solver's Site Assets
+
+This repository contains the assets (such as downloads or tarballs) for the
+Freecell Solver web-site at L<http://fc-solve.shlomifish.org> .
+
