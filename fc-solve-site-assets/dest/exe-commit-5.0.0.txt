@@ -1,0 +1,8 @@
+Added the Win{32,64} 5.0.0 binaries
+
+$ sha256sum dest/fc-solve/freecell-solver-5.0.0-win32.exe dest/fc-solve/freecell-solver-5.0.0-win64.exe
+9b743af179de2b097cd40127bd5fa63a9b7f63d37f61b8dc9d01b3942dee055f  dest/fc-solve/freecell-solver-5.0.0-win32.exe
+c1f15c29c8c6b752196bf70a7209d4f43b55cc676aa29a544068066bad91743d  dest/fc-solve/freecell-solver-5.0.0-win64.exe
+$ sha512sum dest/fc-solve/freecell-solver-5.0.0-win32.exe dest/fc-solve/freecell-solver-5.0.0-win64.exe
+4b2c62a10e1fd16ea36f91e0466c9aa940818c78a0b793c62fabc43900c9cab7ac8ad638f87dd6b59094dc51065b3799b5a03569c028c3654d38d14de2e7a068  dest/fc-solve/freecell-solver-5.0.0-win32.exe
+bc4dafee1a1559fd139684773e3e6ec7065df03b390f9710f30eac76c75a99bdb64dbcffcb14235000411b9ec93410ad4b9e0b0f8c9b64b2e4a30fdfefd68fe8  dest/fc-solve/freecell-solver-5.0.0-win64.exe
