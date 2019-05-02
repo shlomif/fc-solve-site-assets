@@ -10,3 +10,6 @@ download:
 
 upload:
 	$(RSYNC) $(DEST)/ $(REMOTE_URL)
+
+upload-sf:
+	$(RSYNC) -e ssh --delete-after $(DEST)/fc-solve/ shlomif@frs.sourceforge.net:/home/frs/project/fc-solve/fc-solve/
